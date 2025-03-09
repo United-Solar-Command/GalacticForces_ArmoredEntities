@@ -1,9 +1,0 @@
-SCR_ChimeraCharacter : "{541386D92B1E494D}Prefabs/Characters/CIW/Character_CIW_Rifleman.et" {
- ID "520EC961A090B1EE"
- components {
-  ChimeraAIControlComponent "{520EA1D2DB109F34}" {
-   EnableAI 1
-  }
- }
- coords 4308.224 1.126 9531.137
-}

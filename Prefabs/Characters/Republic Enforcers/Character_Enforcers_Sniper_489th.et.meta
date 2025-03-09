@@ -1,0 +1,17 @@
+MetaFileClass {
+ Name "{3C9079CCE7CAA409}Prefabs/Characters/Republic Enforcers/Character_Enforcers_Sniper_489th.et"
+ Configurations {
+  EntityTemplateResourceClass PC {
+  }
+  EntityTemplateResourceClass XBOX_ONE : PC {
+  }
+  EntityTemplateResourceClass XBOX_SERIES : PC {
+  }
+  EntityTemplateResourceClass PS4 : PC {
+  }
+  EntityTemplateResourceClass PS5 : PC {
+  }
+  EntityTemplateResourceClass HEADLESS : PC {
+  }
+ }
+}
