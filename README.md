@@ -1,9 +1,7 @@
-# USCMF - United Solar Command Mission Framework
+# GF-AE - Galactic Forces Armored Entities
 
 ## What is the USCMF
-The USCMF is a framework of scenarios for use on the 1st MB's servers on the game [Arma Reforger](https://reforger.armaplatform.com/). 
-
-This repository is the framework itself and, when cloned into the Arma Reforger Workbench folder and opened in said Workbench, is used to make missions using mods that are attached to the framework itself.
+The Galactic Forces Armored Entities mod is a mod for Arma Reforger that allows for the spawning of different units (with armors and kits) for the 1MB/USC milsim, using the Galactic Forces Mod.
 
 ## License
 Everything is licensed under a modified APL-ND License (except stated otherwise):
