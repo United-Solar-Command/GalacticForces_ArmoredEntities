@@ -1,0 +1,17 @@
+MetaFileClass {
+ Name "{AB162344D2AB0CE5}Configs/Editor/PlaceableEntities/Systems_GalacticForces.conf"
+ Configurations {
+  CONFResourceClass PC {
+  }
+  CONFResourceClass XBOX_ONE : PC {
+  }
+  CONFResourceClass XBOX_SERIES : PC {
+  }
+  CONFResourceClass PS4 : PC {
+  }
+  CONFResourceClass PS5 : PC {
+  }
+  CONFResourceClass HEADLESS : PC {
+  }
+ }
+}

@@ -1,0 +1,17 @@
+MetaFileClass {
+ Name "{CAC9D279F7E55020}Configs/Editor/PlaceableEntities/Compositions_Enforcers.conf"
+ Configurations {
+  CONFResourceClass PC {
+  }
+  CONFResourceClass XBOX_ONE : PC {
+  }
+  CONFResourceClass XBOX_SERIES : PC {
+  }
+  CONFResourceClass PS4 : PC {
+  }
+  CONFResourceClass PS5 : PC {
+  }
+  CONFResourceClass HEADLESS : PC {
+  }
+ }
+}
