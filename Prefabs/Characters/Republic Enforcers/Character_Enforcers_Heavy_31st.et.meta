@@ -1,0 +1,17 @@
+MetaFileClass {
+ Name "{A17C6BE6A7A38899}Prefabs/Characters/Republic Enforcers/Character_Enforcers_Heavy_31st.et"
+ Configurations {
+  EntityTemplateResourceClass PC {
+  }
+  EntityTemplateResourceClass XBOX_ONE : PC {
+  }
+  EntityTemplateResourceClass XBOX_SERIES : PC {
+  }
+  EntityTemplateResourceClass PS4 : PC {
+  }
+  EntityTemplateResourceClass PS5 : PC {
+  }
+  EntityTemplateResourceClass HEADLESS : PC {
+  }
+ }
+}

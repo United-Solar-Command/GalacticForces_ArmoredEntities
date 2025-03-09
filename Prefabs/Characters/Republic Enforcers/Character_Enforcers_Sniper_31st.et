@@ -1,0 +1,74 @@
+SCR_ChimeraCharacter : "{B6FDA3490427DFF0}Prefabs/Characters/Republic Enforcers/Character_Enforcers_Base.et" {
+ ID "520EC961A090B1EE"
+ components {
+  SCR_EditableCharacterComponent "{520EA1D2F659C85C}" {
+   m_UIInfo SCR_EditableEntityUIInfo "{5298E609432D192D}" {
+    Name "Enforcer Marksman (31st)"
+    Icon "{0A78405E73C36477}UI/Textures/Editor/EditableEntities/Characters/EditableEntity_Character_Sharpshooter.edds"
+   }
+  }
+  CharacterGrenadeSlotComponent "{520EA1D2F659CE6E}" {
+   WeaponTemplate "{4B71010370010BCD}Prefabs/Weapons/Grenade/FragGrenade_Enforcer.et"
+  }
+  CharacterGrenadeSlotComponent "{5A6CDA0CCF43068E}" {
+   WeaponTemplate "{9DB69176CEF0EE97}Prefabs/Weapons/Grenades/Smoke_ANM8HC.et"
+  }
+  CharacterWeaponSlotComponent "{520EA1D2F659CFAB}" {
+   WeaponTemplate "{6FCE285FB8495EDB}Prefabs/Weapons/Rifles/SVD/Rifle_VA-50_Blue.et"
+  }
+  CharacterWeaponSlotComponent "{520EA1D2F659CFDC}" {
+   WeaponTemplate "{5324FF3125C00867}Prefabs/Weapons/Handguns/M9/VA_Viper_X9.et"
+  }
+  BaseLoadoutManagerComponent "{520EA1D2DB11821E}" {
+   Slots {
+    LoadoutSlotInfo Hat {
+     Prefab "{FCF00E594B5EDE6F}Prefabs/Characters/Headgear/Enforcer_Helmet_31st.et"
+    }
+    LoadoutSlotInfo Pants {
+     Prefab "{02B448291CE985CF}Prefabs/Characters/Uniforms/Pants_Enforcer/Pants_Enforcer_31st.et"
+    }
+    LoadoutSlotInfo Back {
+     Prefab "{5A9A372EFF9AABF9}Prefabs/Items/Backpack/Backpack_Enforcer.et"
+    }
+    LoadoutSlotInfo Vest {
+     Prefab "{D5FE2C71AF217C61}Prefabs/Characters/Vests/Vest_Enforcer/Vest_Enforcer_31st.et"
+    }
+   }
+  }
+  SCR_InventoryStorageManagerComponent "{520EA1D2DB118DE5}" {
+   InitialInventoryItems {
+    ItemsInitConfigurationItem "{64D34988B4FC4826}" {
+     TargetStorage "Prefabs/Items/Backpack/Backpack_Enforcer.et"
+     PrefabsToSpawn {
+      "{BA5F89AA77600C7D}Prefabs/Weapons/Magazines/Magazine_VA-50_Blue.et" "{BA5F89AA77600C7D}Prefabs/Weapons/Magazines/Magazine_VA-50_Blue.et" "{BA5F89AA77600C7D}Prefabs/Weapons/Magazines/Magazine_VA-50_Blue.et" "{BA5F89AA77600C7D}Prefabs/Weapons/Magazines/Magazine_VA-50_Blue.et" "{BA5F89AA77600C7D}Prefabs/Weapons/Magazines/Magazine_VA-50_Blue.et" "{BA5F89AA77600C7D}Prefabs/Weapons/Magazines/Magazine_VA-50_Blue.et" "{BA5F89AA77600C7D}Prefabs/Weapons/Magazines/Magazine_VA-50_Blue.et" "{BA5F89AA77600C7D}Prefabs/Weapons/Magazines/Magazine_VA-50_Blue.et" "{BA5F89AA77600C7D}Prefabs/Weapons/Magazines/Magazine_VA-50_Blue.et" "{BA5F89AA77600C7D}Prefabs/Weapons/Magazines/Magazine_VA-50_Blue.et" "{BA5F89AA77600C7D}Prefabs/Weapons/Magazines/Magazine_VA-50_Blue.et" "{BA5F89AA77600C7D}Prefabs/Weapons/Magazines/Magazine_VA-50_Blue.et" "{BA5F89AA77600C7D}Prefabs/Weapons/Magazines/Magazine_VA-50_Blue.et" "{BA5F89AA77600C7D}Prefabs/Weapons/Magazines/Magazine_VA-50_Blue.et" "{4B71010370010BCD}Prefabs/Weapons/Grenade/FragGrenade_Enforcer.et" "{9DB69176CEF0EE97}Prefabs/Weapons/Grenades/Smoke_ANM8HC.et" "{9DB69176CEF0EE97}Prefabs/Weapons/Grenades/Smoke_ANM8HC.et" "{D70216B1B2889129}Prefabs/Items/Medicine/Tourniquet_01/Tourniquet_US_01.et" "{D70216B1B2889129}Prefabs/Items/Medicine/Tourniquet_01/Tourniquet_US_01.et"
+     }
+    }
+    ItemsInitConfigurationItem "{64D34988B4FC4817}" {
+     TargetStorage "Prefabs/Characters/Uniforms/Pants_Enforcer/Pants_Enforcer_31st.et"
+     PrefabsToSpawn {
+      "{5BC7B3D27BD9A8A9}Prefabs/Weapons/Magazines/Magazine_VA_Viper_X9.et" "{5BC7B3D27BD9A8A9}Prefabs/Weapons/Magazines/Magazine_VA_Viper_X9.et" "{5BC7B3D27BD9A8A9}Prefabs/Weapons/Magazines/Magazine_VA_Viper_X9.et" "{5BC7B3D27BD9A8A9}Prefabs/Weapons/Magazines/Magazine_VA_Viper_X9.et" "{5BC7B3D27BD9A8A9}Prefabs/Weapons/Magazines/Magazine_VA_Viper_X9.et" "{5BC7B3D27BD9A8A9}Prefabs/Weapons/Magazines/Magazine_VA_Viper_X9.et"
+     }
+    }
+    ItemsInitConfigurationItem "{64D34988B4FC4813}" {
+     TargetStorage "Prefabs/Characters/Vests/Vest_Enforcer/Vest_Enforcer_31st.et"
+     PrefabsToSpawn {
+      "{D70216B1B2889129}Prefabs/Items/Medicine/Tourniquet_01/Tourniquet_US_01.et" "{D70216B1B2889129}Prefabs/Items/Medicine/Tourniquet_01/Tourniquet_US_01.et" "{30CDE9F71FC702E8}Prefabs/Items/Medicine/FieldDressing_01/FieldDressing_US_01_Base.et" "{30CDE9F71FC702E8}Prefabs/Items/Medicine/FieldDressing_01/FieldDressing_US_01_Base.et" "{30CDE9F71FC702E8}Prefabs/Items/Medicine/FieldDressing_01/FieldDressing_US_01_Base.et" "{30CDE9F71FC702E8}Prefabs/Items/Medicine/FieldDressing_01/FieldDressing_US_01_Base.et" "{30CDE9F71FC702E8}Prefabs/Items/Medicine/FieldDressing_01/FieldDressing_US_01_Base.et" "{30CDE9F71FC702E8}Prefabs/Items/Medicine/FieldDressing_01/FieldDressing_US_01_Base.et"
+     }
+    }
+    ItemsInitConfigurationItem "{64D34988B4FC480F}" {
+     TargetStorage "Prefabs/Characters/Uniforms/Pants_Enforcer/Pants_Enforcer_31st.et"
+     PrefabsToSpawn {
+      "{6E35D94130954509}Prefabs/Items/Equipment/Accessories/ETool_ALICE/ETool_ALICE_FreeRoamBuilding_Gadget.et" "{9DB69176CEF0EE97}Prefabs/Weapons/Grenades/Smoke_ANM8HC.et" "{9DB69176CEF0EE97}Prefabs/Weapons/Grenades/Smoke_ANM8HC.et" "{9DB69176CEF0EE97}Prefabs/Weapons/Grenades/Smoke_ANM8HC.et" "{28A2EE59C1996DC1}Prefabs/Items/Equipment/Maps/Datapad_Map.et"
+     }
+    }
+    ItemsInitConfigurationItem "{64D34988B4FC4808}" {
+     TargetStorage "Prefabs/Characters/Headgear/Enforcer_Helmet_31st.et"
+     TargetPurpose 64
+     PrefabsToSpawn {
+      "{9C9D1DD3AB50F0AB}Prefabs/Items/Equipment/Flashlights/Flashlight_Enforcer_Right.et" "{21BC81888C43B444}Prefabs/Items/Equipment/Binoculars/Enforcer_Binoculars/Binoculars_White_Enforcer.et" "{4ACBA9E1F61EC559}Prefabs/Items/Equipment/Radios/Enforcer_Radio.et"
+     }
+    }
+   }
+  }
+ }
+}

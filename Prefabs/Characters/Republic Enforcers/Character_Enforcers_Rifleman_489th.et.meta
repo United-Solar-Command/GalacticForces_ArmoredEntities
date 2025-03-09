@@ -1,0 +1,17 @@
+MetaFileClass {
+ Name "{45719D2FAF3914AE}Prefabs/Characters/Republic Enforcers/Character_Enforcers_Rifleman_489th.et"
+ Configurations {
+  EntityTemplateResourceClass PC {
+  }
+  EntityTemplateResourceClass XBOX_ONE : PC {
+  }
+  EntityTemplateResourceClass XBOX_SERIES : PC {
+  }
+  EntityTemplateResourceClass PS4 : PC {
+  }
+  EntityTemplateResourceClass PS5 : PC {
+  }
+  EntityTemplateResourceClass HEADLESS : PC {
+  }
+ }
+}
