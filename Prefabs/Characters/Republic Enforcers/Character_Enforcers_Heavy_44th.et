@@ -4,6 +4,7 @@ SCR_ChimeraCharacter : "{A3E8581713C7327A}Prefabs/Characters/Republic Enforcers/
   SCR_EditableCharacterComponent "{520EA1D2F659C85C}" {
    m_UIInfo SCR_EditableEntityUIInfo "{5298E609432D192D}" {
     Name "Enforcer Heavy (44th)"
+    Icon "{EF1F445746A3391A}UI/Textures/Editor/EditableEntities/Characters/EditableEntity_Character_MachineGunner.edds"
    }
   }
   CharacterGrenadeSlotComponent "{5A6CDA0CCF43068E}" {
@@ -35,7 +36,7 @@ SCR_ChimeraCharacter : "{A3E8581713C7327A}Prefabs/Characters/Republic Enforcers/
   SCR_InventoryStorageManagerComponent "{520EA1D2DB118DE5}" {
    InitialInventoryItems {
     ItemsInitConfigurationItem "{608745F6B28640A3}" {
-     TargetStorage "Prefabs/Characters/Vests/Vest_Enforcer/Vest_Enforcer_44th.et"
+     TargetStorage "Prefabs/Items/Backpack/Backpack_Enforcer.et"
      PrefabsToSpawn {
       "{4B71010370010BCD}Prefabs/Weapons/Grenade/FragGrenade_Enforcer.et" "{4B71010370010BCD}Prefabs/Weapons/Grenade/FragGrenade_Enforcer.et" "{28AE837E3E3DD426}Prefabs/Weapons/Magazines/Magazine_VA-0880_Blue.et" "{28AE837E3E3DD426}Prefabs/Weapons/Magazines/Magazine_VA-0880_Blue.et" "{28AE837E3E3DD426}Prefabs/Weapons/Magazines/Magazine_VA-0880_Blue.et" "{28AE837E3E3DD426}Prefabs/Weapons/Magazines/Magazine_VA-0880_Blue.et"
      }

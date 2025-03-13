@@ -44,19 +44,19 @@ SCR_ChimeraCharacter : "{B6FDA3490427DFF0}Prefabs/Characters/Republic Enforcers/
      }
     }
     ItemsInitConfigurationItem "{64D34988B4FC4817}" {
-     TargetStorage "Prefabs/Characters/Uniforms/Pants_Enforcer/Pants_Enforcer_31st.et"
+     TargetStorage "Prefabs/Characters/Vests/Vest_Enforcer/Vest_Enforcer_31st.et"
      PrefabsToSpawn {
       "{5BC7B3D27BD9A8A9}Prefabs/Weapons/Magazines/Magazine_VA_Viper_X9.et" "{5BC7B3D27BD9A8A9}Prefabs/Weapons/Magazines/Magazine_VA_Viper_X9.et" "{5BC7B3D27BD9A8A9}Prefabs/Weapons/Magazines/Magazine_VA_Viper_X9.et" "{5BC7B3D27BD9A8A9}Prefabs/Weapons/Magazines/Magazine_VA_Viper_X9.et" "{5BC7B3D27BD9A8A9}Prefabs/Weapons/Magazines/Magazine_VA_Viper_X9.et" "{5BC7B3D27BD9A8A9}Prefabs/Weapons/Magazines/Magazine_VA_Viper_X9.et"
      }
     }
     ItemsInitConfigurationItem "{64D34988B4FC4813}" {
-     TargetStorage "Prefabs/Characters/Vests/Vest_Enforcer/Vest_Enforcer_31st.et"
+     TargetStorage "Prefabs/Characters/Uniforms/Pants_Enforcer/Pants_Enforcer_31st.et"
      PrefabsToSpawn {
       "{D70216B1B2889129}Prefabs/Items/Medicine/Tourniquet_01/Tourniquet_US_01.et" "{D70216B1B2889129}Prefabs/Items/Medicine/Tourniquet_01/Tourniquet_US_01.et" "{30CDE9F71FC702E8}Prefabs/Items/Medicine/FieldDressing_01/FieldDressing_US_01_Base.et" "{30CDE9F71FC702E8}Prefabs/Items/Medicine/FieldDressing_01/FieldDressing_US_01_Base.et" "{30CDE9F71FC702E8}Prefabs/Items/Medicine/FieldDressing_01/FieldDressing_US_01_Base.et" "{30CDE9F71FC702E8}Prefabs/Items/Medicine/FieldDressing_01/FieldDressing_US_01_Base.et" "{30CDE9F71FC702E8}Prefabs/Items/Medicine/FieldDressing_01/FieldDressing_US_01_Base.et" "{30CDE9F71FC702E8}Prefabs/Items/Medicine/FieldDressing_01/FieldDressing_US_01_Base.et"
      }
     }
     ItemsInitConfigurationItem "{64D34988B4FC480F}" {
-     TargetStorage "Prefabs/Characters/Uniforms/Pants_Enforcer/Pants_Enforcer_31st.et"
+     TargetStorage "Prefabs/Characters/Vests/Vest_Enforcer/Vest_Enforcer_31st.et"
      PrefabsToSpawn {
       "{6E35D94130954509}Prefabs/Items/Equipment/Accessories/ETool_ALICE/ETool_ALICE_FreeRoamBuilding_Gadget.et" "{9DB69176CEF0EE97}Prefabs/Weapons/Grenades/Smoke_ANM8HC.et" "{9DB69176CEF0EE97}Prefabs/Weapons/Grenades/Smoke_ANM8HC.et" "{9DB69176CEF0EE97}Prefabs/Weapons/Grenades/Smoke_ANM8HC.et" "{28A2EE59C1996DC1}Prefabs/Items/Equipment/Maps/Datapad_Map.et"
      }
