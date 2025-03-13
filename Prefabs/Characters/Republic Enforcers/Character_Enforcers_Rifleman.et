@@ -3,7 +3,7 @@ SCR_ChimeraCharacter : "{A3E8581713C7327A}Prefabs/Characters/Republic Enforcers/
  components {
   SCR_EditableCharacterComponent "{520EA1D2F659C85C}" {
    m_UIInfo SCR_EditableEntityUIInfo "{5298E609432D192D}" {
-    Name "Enforcer Rifleman"
+    Name "Enforcer Rifleman (Shiny)"
    }
   }
   CharacterGrenadeSlotComponent "{5A6CDA0CCF43068E}" {

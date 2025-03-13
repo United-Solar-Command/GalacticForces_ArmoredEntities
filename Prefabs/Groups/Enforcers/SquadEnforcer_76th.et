@@ -1,0 +1,18 @@
+SCR_AIGroup : "{DDF3799FA1387848}Prefabs/Groups/BLUFOR/Group_US_RifleSquad.et" {
+ ID "0000000000000001"
+ components {
+  SCR_EditableGroupComponent "{50D291F6C83FA532}" {
+   m_UIInfo SCR_EditableGroupUIInfo "{5298E609432D192D}" {
+    Name "Infantry Squad (76th)"
+    m_sFaction "ENFORCERS"
+    m_aAuthoredLabels {
+     4 2151402 25 34 38
+    }
+   }
+  }
+ }
+ m_faction "ENFORCERS"
+ m_aUnitPrefabSlots {
+  "{86CEC3A35D261DD7}Prefabs/Characters/Republic Enforcers/Character_Enforcers_Leader_76th.et" "{6E8A8AD4843FB7BE}Prefabs/Characters/Republic Enforcers/Character_Enforcers_Rifleman_76th.et" "{6E8A8AD4843FB7BE}Prefabs/Characters/Republic Enforcers/Character_Enforcers_Rifleman_76th.et" "{6E8A8AD4843FB7BE}Prefabs/Characters/Republic Enforcers/Character_Enforcers_Rifleman_76th.et" "{6E8A8AD4843FB7BE}Prefabs/Characters/Republic Enforcers/Character_Enforcers_Rifleman_76th.et" "{C390700249363569}Prefabs/Characters/Republic Enforcers/Character_Enforcers_Heavy_76th.et" "{C390700249363569}Prefabs/Characters/Republic Enforcers/Character_Enforcers_Heavy_76th.et" "{C390700249363569}Prefabs/Characters/Republic Enforcers/Character_Enforcers_Heavy_76th.et" "{C390700249363569}Prefabs/Characters/Republic Enforcers/Character_Enforcers_Heavy_76th.et"
+ }
+}
