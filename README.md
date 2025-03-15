@@ -7,7 +7,7 @@ The Galactic Forces Armored Entities mod is a mod for Arma Reforger that allows 
 Everything is licensed under a modified APL-ND License (except stated otherwise):
 https://www.bohemia.net/community/licenses/arma-public-license-nd
 
-Modifications:
+Modifications: 
 
 ### No Reupload
 You may not solely reupload all or any portion of this material.
