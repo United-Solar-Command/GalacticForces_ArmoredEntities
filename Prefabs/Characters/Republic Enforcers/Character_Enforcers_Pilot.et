@@ -4,6 +4,7 @@ SCR_ChimeraCharacter : "{A3E8581713C7327A}Prefabs/Characters/Republic Enforcers/
   SCR_EditableCharacterComponent "{520EA1D2F659C85C}" {
    m_UIInfo SCR_EditableEntityUIInfo "{5298E609432D192D}" {
     Name "Enforcer Pilot (Shiny)"
+    Icon "{A489F552FB7489C3}UI/Textures/Editor/EditableEntities/Characters/EditableEntity_Character_Custom.edds"
    }
   }
   CharacterGrenadeSlotComponent "{5A6CDA0CCF43068E}" {
